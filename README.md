@@ -1,8 +1,8 @@
 # Network-Discovery
 
-The project was designed to solve problems of handling network architectures from the point of view :
-Determination of the equipment interconnection.
-Representation of the network diagrams in a reliable and clear way.
+The project was designed to solve problems of handling network architectures from the point of view : \n
+Determination of the equipment interconnection. \n
+Representation of the network diagrams in a reliable and clear way. \n
 Management and configuration of network devices
 Visualisation of network topology configuration and selecting the helpful information for troubleshooting.
 
