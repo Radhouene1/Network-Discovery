@@ -4,7 +4,7 @@ The project was designed to solve problems of handling network architectures fro
 
 Determination of the equipment interconnection.
 
-Representation of the network diagrams in a reliable and clear way. \n
+Representation of the network diagrams in a reliable and clear way.
 
 Management and configuration of network devices
 
